@@ -7,6 +7,12 @@ verify_ssl = true
 
 [packages]
 django = "*"
+jupyter = "*"
+notebook = "*"
+numpy = "*"
+pandas = "*"
+sklearn = "*"
+joblib = "*"
 
 [requires]
 python_version = "3.6"
