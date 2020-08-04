@@ -13,6 +13,9 @@ numpy = "*"
 pandas = "*"
 sklearn = "*"
 joblib = "*"
+djangorestframework = "*"
+markdown = "*"
+django-filter = "*"
 
 [requires]
 python_version = "3.6"
